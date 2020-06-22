@@ -1,5 +1,5 @@
-[
-    ["CSR activity planning and implementation.",
+[{
+    "corporate": ["CSR activity planning and implementation.",
         "HR Training on productivity.",
         "Staff hiring.",
         "Market survey.",
@@ -7,8 +7,9 @@
         "Event management.",
         "Residential area management services.",
         "Canteen management services. "
-    ],
-    [
+    ]
+}, {
+    "NGO": [
         "Proposal writing",
         "Fund raising",
         "Social media campaign management",
@@ -19,4 +20,4 @@
         "Social survey",
         "Monitoring and evaluation of projects"
     ]
-]
+}]
