@@ -20,4 +20,21 @@
         "Social survey",
         "Monitoring and evaluation of projects"
     ]
+}, {
+    "GovtDept": [
+        "Project Management.",
+        "Social and other survey.",
+        "Monitoring and evaluation of programs.",
+        "Logistics.",
+        "Event Management.",
+        "Skill trainings on various trades."
+    ]
+}, {
+    "SHG": [
+        "SHG Management and strengthening trainings.",
+        "Business proposal.",
+        "Bank linkages.",
+        "Marketing support for income generative activities."
+
+    ]
 }]
